@@ -17,26 +17,26 @@ console.log("========== Declare & Initialize variable with name & value ========
 var myLove="I love only JS"
 console.log(myLove);
 
-console.log("==========Personal Information");
+console.log("==========Personal Information==========");
 
 var firstName="Amitkumar";
-console.log(firstName);
+console.log("First Name:", firstName);
 
 var lastName="Kamble";
-console.log(lastName);
+console.log("Last Name:", lastName);
 
 var age=20;
-console.log(age);
+console.log("Age:", age);
 
 var address="Hinjewadi,Pune";
-console.log(address);
+console.log("Address:", address);
 
 var pinCode=411057;
-console.log(pinCode);
+console.log("Pin Code:", pinCode);
 
 var gender="Male";
-console.log(gender);
+console.log("Gender:", gender);
 
 var isMarried=false;
-console.log(isMarried);
+console.log("Is Married:", isMarried);
 
