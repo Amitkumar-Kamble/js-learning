@@ -3,7 +3,7 @@ function greaterNumber(arg1, arg2){
     var n1 = arg1;
     var n2 = arg2;
     var result = arg1 > arg2 ? arg1:arg2;
-    console.log(`Greater number among 10 & -10 is:  ${result}`);
+    console.log(`Greater number among ${arg1} & ${arg2} is:  ${result}`);
 
 }
 greaterNumber(10,-10);
