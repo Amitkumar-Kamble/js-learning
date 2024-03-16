@@ -28,6 +28,6 @@ function wordLength(arg1,){
     var result =word.length % 2 == 0 ? `"${word}" word length is: EVEN`: `"${word}" word length is: ODD`;
     console.log(`${result}`);
 }
-wordLength("Javascript");
+wordLength("JavaScript");
 wordLength("developer");
 wordLength("Google");
