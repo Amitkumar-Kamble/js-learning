@@ -1,0 +1,5 @@
+console.log(`==========Program to print numbers from 50 to 40 (Decrement by 1)==========`);
+
+for (let index = 50; index >= 40; index--) {
+    console.log(index);
+}
