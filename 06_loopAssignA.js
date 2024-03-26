@@ -21,24 +21,24 @@ console.log(`Sum of cubes of numbers from 1 to 5 is: ${sum}`);
 
 console.log("==========Step3A-Odd positioned chars in given string==========");
 
-function oddPositionedChars(word){
+function oddPositionedChars(word) {
     for (let index = 0; index < word.length; index++) {
         const element = word.charAt(index);
-        if (index%2!=0 && element !=" " ) {
+        if (index % 2 != 0 && element != " ") {
             console.log(element);
         }
-        }
+    }
 }
 oddPositionedChars("Hard work always pays back");
 
 console.log("==========Step3B-Odd positioned chars in given string==========");
 
-function oddPositionedChars(word){
+function oddPositionedChars(word) {
     for (let index = 0; index < word.length; index++) {
         const element = word.charAt(index);
-        if (index%2!=0 && element !=" " ) {
+        if (index % 2 != 0 && element != " ") {
             console.log(element);
         }
-        }
+    }
 }
 oddPositionedChars("Soon I will be UI IT Champ");
