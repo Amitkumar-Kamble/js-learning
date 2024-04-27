@@ -15,7 +15,7 @@ const bankLocation = {
 }
 console.log(bankLocation);
 
-console.log("=====Step2=====");
+console.log("=====Step3=====");
 //Cloning an Object using Object.assign() method
 console.log("======Cloning an Object bankSbi using assign() method=====");
 const cloneObject1=Object.assign({}, bankSbi);
